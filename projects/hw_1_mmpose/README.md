@@ -21,7 +21,7 @@ Average Recall     (AR) @[ IoU=0.50:0.95 | area= large | maxDets=100 ] = 0.852
 ```
 
 # RTMPose result
-<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.gif" width="100">
+<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.gif" width="180">
 
 ```
 Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] =  0.721
