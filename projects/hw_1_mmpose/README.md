@@ -1,6 +1,7 @@
 # RTMDet result
 My ear
-![alt text](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.png | width=100)
+
+![](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.png | width=100)
 
 ```
  Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets=100 ] = 0.819
@@ -20,7 +21,8 @@ My ear
 ```
 
 # RTMPose result
-[![Watch the video](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.png)](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.mp4)
+![](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.gif | width=100)
+![](https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_1_mmpose/my_ear.png | width=100)
 ```
 Average Precision  (AP) @[ IoU=0.50:0.95 | area=   all | maxDets= 20 ] =  0.721
 Average Precision  (AP) @[ IoU=0.50      | area=   all | maxDets= 20 ] =  1.000
