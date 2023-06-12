@@ -1,10 +1,11 @@
 # MMpretrain image classification
 
-<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_2_mmpretrain/vis.png" width="180">
+<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_2_mmpretrain/vis.png" width="280">
 
 
 Inference result:
-<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_2_mmpretrain/pineapple.jpg" width="180">
+
+<img src="https://github.com/dingkwang/OpenMMLabCamp/blob/main/projects/hw_2_mmpretrain/pineapple.jpg" width="200">
 ```
 [{'pred_scores': array([6.49788166e-13, 2.59510434e-11, 2.71917146e-13, 2.01528863e-10,
        1.22331141e-14, 1.37554195e-11, 1.88937824e-11, 4.88328616e-13,
